@@ -28,7 +28,7 @@
   "homepage": "https://github.com/justicedemocrats/osdi-proxy#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "debug": "^3.1.0",
+    "debug": "^4.1.1",
     "express": "^4.16.2",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
